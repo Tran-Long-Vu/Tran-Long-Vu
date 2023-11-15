@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Long+Vu+Tran+(aka+Thomas)🖥️)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Wish+you+a+good+day+⌨️)](https://git.io/typing-svg)
 
-# <a href="https://github.com/SophieNguyen113"><img src="https://avatars.githubusercontent.com/u/101343463?s=400&u=df6fc6a6e69b97adcd4535c2eed0b039d98565b9&v=4" width="200px" height="200px" alt="Sunflower"></a> How do you do? I’m Tran Long Vu 🖥️⌨️ 
+# <a href="https://github.com/Tran-Long-Vu"><img src="https://avatars.githubusercontent.com/u/101343463?s=400&u=df6fc6a6e69b97adcd4535c2eed0b039d98565b9&v=4" width="200px" height="200px" alt="Sunflower"></a> How do you do? I’m Tran Long Vu 🖥️⌨️ 
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
@@ -77,10 +77,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/long-vu-tran-77a280272/"  rel="noopener noreferrer">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="sophie-linkedin" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" />
   </a>
   <a href="mailto:tranlongvu007@gmail.com" target="top" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="sophie-email"/>
+  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="email"/>
   </a>
 </div>
 
