@@ -10,7 +10,7 @@
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
-💻 Research Assistant @ VinUniversity || B.S ICT @ Swinburne University of Technology || Machine Learning Student.
+💻 ML Collaborator @ Viettel AI || B.S ICT @ Swinburne University of Technology || Software Engineering Student.
 
 <hr>
 
@@ -93,4 +93,3 @@
 
 </div>
 
-<img src="https://qph.cf2.quoracdn.net/main-qimg-779b58bd67d3cc0c38c9d7bbbba05d36" title="Thanks" alt="Thank you for your attention! You made it all the way down here!">
