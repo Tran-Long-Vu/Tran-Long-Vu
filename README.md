@@ -10,7 +10,7 @@
 
 🙋‍♂️ Thank you for visiting my GitHub profile! 
 
-💻 ML Collaborator @ Viettel AI || B.S ICT @ Swinburne University of Technology || Software Engineering Student.
+💻 ML Engineer @ Viettel || B.S ICT @ Swinburne University of Technology || Software Engineering Major.
 
 <hr>
 
